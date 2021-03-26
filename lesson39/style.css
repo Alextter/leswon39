@@ -1,0 +1,91 @@
+.mamasha{
+    display: flex;
+    m
+}
+.div1{
+    width: 520px;
+    height: 520px;
+    border: 1px solid brown;
+    background-image: url(./img/Photo@1X\ \(1\).png);
+}
+.div2{
+    margin: 0 auto;
+    width: 460px;
+    height: 30px;
+    border-bottom: 1px solid rgb(128, 128, 128);
+    
+}
+.text{
+    padding-left: 206px;
+    width: 130px;
+    height: ;
+    border: brown;
+}
+.sorry{
+    
+    font-size: 49px;
+    padding-top: 112px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.we{
+    margin-top: -50px;
+    font-family: 'Playfair Display', serif;
+    color: rgb(187, 187, 187);
+    
+}
+.img1{
+    margin-top: -20px;
+    margin-left: 50px;
+    transform: rotate(40deg);
+}
+.btn{
+    width: 106px;
+    height: 29px;border: 1px solid grey;
+    margin-left: 210px;
+    margin-top: 100px;
+}
+.back{
+    margin-left: 30px;
+    margin-top: 6px;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+.div3{
+    width: 510px;
+    height: 520px;
+    border: 1px solid green;
+    margin-left: 30px;
+}
+.img2{
+    border-radius: 100%;
+    margin-top: 20px;
+}
+.all{
+    width: 520px;
+    display: flex;
+}
+.text1{
+    width: 292px;
+    margin-left: 20px;
+}
+.country{
+   margin-top: -15px;
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 16px;
+}
+.social{
+    display: flex;
+    border-bottom: 1px ;
+    border: 1px solid;
+}
+#fab{
+    margin-left: 10px;
+    
+}
